@@ -467,9 +467,4 @@ We welcome contributions! Please follow these steps to contribute:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📧 Contact
-
-**Author Name:** Ayush Singh
-
-**Email:**  singh.ayush.kv@gmail.com
 
