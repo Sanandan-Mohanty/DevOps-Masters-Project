@@ -56,9 +56,6 @@ flowchart TD
 ```
 
 
-## 🌐 Live Demo
-
-[https://github.com/Ayush-silicon/DevOps-Masters-Project](https://github.com/Ayush-silicon/DevOps-Masters-Project)
 
 ## ✨ Features
 
